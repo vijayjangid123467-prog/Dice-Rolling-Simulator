@@ -7,23 +7,23 @@ Dice Rolling Simulator Using Python
 
 The Dice Rolling Simulator is a simple Python project that simulates rolling one or two dice. Users can choose whether to roll a single die, roll two dice, or exit the program. The program uses Python's built-in random module to generate random numbers between 1 and 6, just like a real dice roll.
 
-This project is great for beginners learning:
+#This project is great for beginners learning:
 
-Loops (while)
-Conditional Statements (if-elif-else)
-User Input (input())
-Random Number Generation (random.randint())
-Formatted Output (f-strings)
-✨ Features
-Roll a single die.
-Roll two dice at once.
-Display the total of two dice rolls.
-Menu-driven interface.
-Handles invalid choices.
-Exit option for ending the program.
-🛠️ Technologies Used
+>Loops (while)
+>Conditional Statements (if-elif-else)
+>User Input (input())
+>Random Number Generation (random.randint())
+>Formatted Output (f-strings)
+✨ Features:
+>Roll a single die.
+>Roll two dice at once.
+>Display the total of two dice rolls.
+>Menu-driven interface.
+>Handles invalid choices.
+>Exit option for ending the program.
+🛠️ Technologies Used:
 Python 3
-Random Module
+Random Module:
 📂 How to Run
 Install Python 3 on your computer.
 Copy the code into a file named dice_rolling_simulator.py.
@@ -58,12 +58,11 @@ Generating random values
 Creating menu-driven programs
 Using loops and conditions
 Taking user input
-🚀 Future Improvements
-Add dice rolling animation.
-Allow rolling multiple dice.
-Keep track of roll history.
-Display dice faces using ASCII art.
-Add a graphical user interface (GUI) using Tkinter.
-👨‍💻 Author
+🚀 Future Improvements:
+>Add dice rolling animation.
+>Allow rolling multiple dice.
+>Keep track of roll history.
+>Display dice faces using ASCII art.
+>Add a graphical user interface (GUI) using Tkinter.
 
 Created as a beginner-friendly Python project to practice programming fundamentals and understand how random number generation works in Python.
